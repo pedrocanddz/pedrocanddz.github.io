@@ -1,0 +1,10 @@
+body{
+    margin: 0 auto;
+}
+h1{
+    font-weight: bold;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
